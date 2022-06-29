@@ -1,6 +1,6 @@
 ##Utilização
 
-	Executar o arquivo TestehudsonApplication.java via IDE ou por linha de comando para iniciar a 	aplicação.
+	Executar o arquivo TestehudsonApplication.java via IDE ou por linha de comando para iniciar a aplicação.
 
 	A url utilizada é a: http://localhost:8000/testehudson-api
 
