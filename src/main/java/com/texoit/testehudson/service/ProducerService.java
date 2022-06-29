@@ -14,7 +14,6 @@ import com.texoit.testehudson.domain.Movie;
 import com.texoit.testehudson.domain.Producer;
 import com.texoit.testehudson.dto.AwardResponse;
 import com.texoit.testehudson.repository.MovieRepository;
-import com.texoit.testehudson.util.Util;
 
 @Service
 public class ProducerService {
